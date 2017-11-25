@@ -15,3 +15,4 @@ class SessionsController < ApplicationController
       redirect_to login_path
   end
 end
+#https://www.railstutorial.org/book/basic_login
